@@ -1,4 +1,4 @@
-# SSIM.JS
+## SSIM.JS
 
 > Get a `0` to `1` score on how similar two images are
 
